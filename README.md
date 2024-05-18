@@ -5,6 +5,9 @@ This project demonstrates a simple linear regression model to predict a student'
 
 Features:-
 >Data Visualization: Scatter plot to visualize the relationship between study hours and percentage scores.
+
 >Model Training: Use of scikit-learn's LinearRegression to train the model on the provided dataset.
+
 >Prediction: Making predictions based on the trained model.
+
 >Evaluation: Evaluation of the model using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
